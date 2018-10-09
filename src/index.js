@@ -15,4 +15,5 @@ ReactDOM.render(
   , document.querySelector('.container'));
 
 
-//reducers 
+//reducers are functions the return a piece of the application state
+// reducers produce the value of a piece a state KEY > books:  VALUE > [{title: "Harry Potter"}]}
